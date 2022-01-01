@@ -1,0 +1,3 @@
+limit-service:
+  min: 4
+  max: 400
